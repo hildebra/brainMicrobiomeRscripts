@@ -1,0 +1,1414 @@
+OTU	Domain	Phylum	Class	Order	Family	Genus	Species
+Zotu2999	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2970	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2980	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2965	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2962	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2955	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2923	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2897	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2837	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2859	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2842	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2808	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2831	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2813	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2792	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2745	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2772	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2720	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2719	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2677	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2636	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2628	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2625	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2620	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2614	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2585	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2593	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2578	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2580	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2577	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2575	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2558	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2757	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2486	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2496	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2536	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2528	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2526	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2507	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2477	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2481	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2438	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2338	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2428	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2413	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2405	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2392	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2391	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2375	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2368	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2366	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2328	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2774	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2306	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2713	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2300	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2293	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2234	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2227	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2171	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2237	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2117	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2195	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2181	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	uncultured organism
+Zotu2188	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2163	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2100	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2150	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2144	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2129	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2095	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2106	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2096	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2015	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2297	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2058	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1991	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2044	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2037	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2784	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1969	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1956	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1955	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1922	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1931	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1928	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1861	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1896	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1894	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1885	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1865	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1746	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1859	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1848	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1843	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1819	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1801	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1715	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1792	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1774	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1713	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1748	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1737	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1730	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1719	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1665	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2943	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1672	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1643	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1637	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1622	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1616	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1590	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1588	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1584	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1557	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1540	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1471	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1521	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1488	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1501	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1492	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1489	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1484	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1446	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1453	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1421	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2220	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1575	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1414	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1370	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1356	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1343	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1339	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1331	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1327	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1324	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1316	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1317	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2361	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2298	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1304	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1298	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2499	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1268	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1265	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1231	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1229	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1184	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1178	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1166	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1154	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2296	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1116	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1083	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1766	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1060	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu846	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu960	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu938	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu929	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu909	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2619	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu870	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu873	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu825	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu805	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu800	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu789	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu715	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu767	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2436	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu760	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu752	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu734	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu722	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu699	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2632	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu696	Eukaryota	Phragmoplastophyta	Embryophyta	?	?	?	Hevea brasiliensis
+Zotu596	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu625	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu621	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu624	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu622	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1899	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu593	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu594	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu584	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu576	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu574	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu565	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu556	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu527	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu554	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu549	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu531	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1455	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu514	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu506	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2825	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu498	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu469	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu456	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomethylophilaceae	?	methanogenic archaeon CH1270
+Zotu418	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1753	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu445	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu447	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu448	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1275	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu441	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu426	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu467	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu343	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu331	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu291	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu267	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu251	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu126	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu121	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu113	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu56	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu24	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu13	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2992	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Hydrotalea	?
+Zotu2048	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu3007	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Pelomonas	Pelomonas saccharophila
+Zotu3008	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	?	?
+Zotu3011	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis
+Zotu2994	Bacteria	Desulfobacterota	?	?	?	?	?
+Zotu1072	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2918	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	?	?
+Zotu2945	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Chitinophaga	?
+Zotu2967	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	uncultured beta proteobacterium
+Zotu2933	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	uncultured Pseudomonas sp.
+Zotu2950	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Segetibacter	uncultured Segetibacter sp.
+Zotu2949	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu2942	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	SWB02	?
+Zotu526	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2912	Bacteria	Planctomycetota	Planctomycetes	?	uncultured planctomycete	?	?
+Zotu2892	Bacteria	Cyanobacteria	Vampirivibrionia	Vampirovibrionales	?	?	?
+Zotu2879	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	?
+Zotu2882	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	?
+Zotu2881	Bacteria	Bdellovibrionota	Bdellovibrionia	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	?
+Zotu2806	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	?
+Zotu2856	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	?	?
+Zotu273	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2855	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	?	?	?
+Zotu2853	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu2916	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2852	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2820	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu2844	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	?
+Zotu2822	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Microscillaceae	?	uncultured Bacteroidetes bacterium
+Zotu2835	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	?	?
+Zotu2308	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2834	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+Zotu1708	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2748	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu2829	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	?	?
+Zotu3013	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus	?
+Zotu2814	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	?	?	?
+Zotu33	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2790	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Romboutsia ilealis
+Zotu2795	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Haematobacter	?
+Zotu2788	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-010	?
+Zotu2767	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu2783	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas	?
+Zotu2762	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	?
+Zotu404	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2769	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter	?
+Zotu673	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2760	Bacteria	Firmicutes	Bacilli	Exiguobacterales	Exiguobacteraceae	Exiguobacterium	?
+Zotu2660	Bacteria	Bacteroidota	Bacteroidia	?	?	?	?
+Zotu2704	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	?
+Zotu2658	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	uncultured Bacteroidetes bacterium
+Zotu2724	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	uncultured Nitrospira sp.
+Zotu2715	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu2710	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	?
+Zotu2697	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu600	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2694	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	?
+Zotu2685	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	?	?	?
+Zotu2681	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	?
+Zotu2341	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2676	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerococcus	uncultured organism	?
+Zotu2657	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella	uncultured Bergeyella sp.
+Zotu2668	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	?
+Zotu2582	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2630	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	?
+Zotu2649	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	?	?
+Zotu2627	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	?	?
+Zotu2615	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu2532	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu2602	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Nosocomiicoccus	?
+Zotu2755	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2516	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Romboutsia sedimentorum
+Zotu2599	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu1982	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2564	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Negativicoccus	Negativicoccus succinicivorans
+Zotu2466	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1107	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2473	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu2450	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Mogibacterium	?
+Zotu2522	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+Zotu2447	Bacteria	FCPU426	metagenome	?	?	?	?
+Zotu2492	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	?
+Zotu2488	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu2410	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2491	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu2480	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	?
+Zotu1088	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2483	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	?
+Zotu2406	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methyloligellaceae	uncultured Hyphomicrobiaceae bacterium	uncultured Alphaproteobacteria bacterium
+Zotu2398	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	Lachnospiraceae bacterium DW46
+Zotu2443	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Candidatus Berkiella	?
+Zotu2460	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	?	?
+Zotu2433	Bacteria	Firmicutes	Clostridia	Clostridia UCG-014	?	?	?
+Zotu2435	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	Pir4 lineage	?
+Zotu2417	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	?
+Zotu2331	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	?	?
+Zotu1365	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu988	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2412	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	?
+Zotu2323	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	?
+Zotu2386	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	KD3-93	metagenome	?
+Zotu2409	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu2389	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. oral taxon 448 str. F0400
+Zotu2349	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2360	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Clostridium sp. K39
+Zotu1360	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2346	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu2414	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	?
+Zotu2324	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2326	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	uncultured compost bacterium	?	?
+Zotu2870	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2305	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	?	?	?
+Zotu2289	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	?
+Zotu2281	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	?	?	?
+Zotu2276	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	?	?
+Zotu692	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2986	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu2273	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu2272	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu2269	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	?	?
+Zotu2266	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu794	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	uncultured organism
+Zotu2189	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu2260	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Pedomicrobium ferrugineum
+Zotu665	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella sp. oral taxon 317 str. F0108
+Zotu2731	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	?	?
+Zotu2251	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	?
+Zotu2243	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio	Eubacterium sp. oral clone GI038
+Zotu2204	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Paludibacteraceae	F0058	Bacteroidetes oral taxon 274 str. F0058
+Zotu2249	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	Gemmata	uncultured planctomycete
+Zotu2215	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	?
+Zotu2218	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu2766	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu2225	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	?
+Zotu2226	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	Adlercreutzia muris
+Zotu475	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2118	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	?
+Zotu2103	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	Escherichia coli
+Zotu368	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2151	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Pelomonas	Pelomonas saccharophila
+Zotu1751	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu738	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2145	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu2139	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Pleomorphomonadaceae	Pleomorphomonas	?
+Zotu608	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2130	Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillaceae	Niveispirillum	?
+Zotu2127	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+Zotu2108	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	?	?
+Zotu1996	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerococcus	?	?
+Zotu192	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2097	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu2093	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu282	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2091	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Pseudopropionibacterium	?
+Zotu2084	Bacteria	Armatimonadota	?	?	?	?	?
+Zotu2069	Bacteria	Firmicutes	Clostridia	Clostridia UCG-014	?	?	?
+Zotu2066	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	?
+Zotu2045	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	?	?
+Zotu1999	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	?	?	?
+Zotu1745	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1145	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2036	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	?
+Zotu2605	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1868	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2023	Bacteria	?	?	?	?	?	?
+Zotu2653	Bacteria	Verrucomicrobiota	Chlamydiae	Chlamydiales	Parachlamydiaceae	Candidatus Metachlamydia	?
+Zotu2016	Bacteria	Firmicutes	Clostridia	Clostridia UCG-014	?	?	?
+Zotu2021	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2862	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	?
+Zotu1953	Bacteria	Acidobacteriota	Acidobacteriae	Bryobacterales	Bryobacteraceae	Bryobacter	metagenome
+Zotu2007	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu1985	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+Zotu1958	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Hydrotalea	?
+Zotu1987	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2092	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2280	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1984	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	?
+Zotu1937	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga leadbetteri
+Zotu1976	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella	?
+Zotu2707	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1967	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	?
+Zotu1939	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2427	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	?	?
+Zotu2158	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu1926	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	env.OPS 17	uncultured Bacteroidetes bacterium	?
+Zotu2502	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	uncultured organism
+Zotu1932	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	?
+Zotu1927	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	Gaiella occulta
+Zotu1099	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1821	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Bacteroidales bacterium
+Zotu2562	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1920	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	?
+Zotu1913	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter	?
+Zotu1916	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Dermacoccaceae	Dermacoccus	?
+Zotu1893	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	?
+Zotu1832	Bacteria	Planctomycetota	OM190	?	?	?	?
+Zotu1873	Bacteria	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	?
+Zotu1883	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1875	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Alloiococcus	?
+Zotu1880	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1855	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Rhodocyclaceae	?	?
+Zotu1836	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	?
+Zotu2162	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	?
+Zotu1771	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1834	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium riegelii
+Zotu2561	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	?
+Zotu530	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu2440	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu545	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu546	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	?
+Zotu816	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu482	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	?
+Zotu32	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu2931	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu490	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	?	?
+Zotu525	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	?
+Zotu1493	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Chitinophaga	?
+Zotu519	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu2022	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	?	?	?
+Zotu471	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia
+Zotu496	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Anaerovibrio	Anaerovibrio sp. 765
+Zotu539	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Herbaspirillum	?
+Zotu1645	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. CB1
+Zotu495	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys	metagenome
+Zotu501	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu277	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu2315	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	?	?
+Zotu57	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae ND3007 group	?
+Zotu477	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+Zotu463	Bacteria	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	?
+Zotu461	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	?
+Zotu765	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu457	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	?
+Zotu459	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu455	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu452	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium minutissimum
+Zotu400	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu25	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu1630	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	?
+Zotu1057	Bacteria	Campilobacterota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	?
+Zotu1336	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu449	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	?
+Zotu1764	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu401	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu389	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	?
+Zotu803	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium periodonticum
+Zotu2137	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu419	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu439	Bacteria	Campilobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter gracilis
+Zotu2669	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	uncultured organism
+Zotu1811	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	?
+Zotu435	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1191	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu2363	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1971	Bacteria	Latescibacterota	?	?	?	?	?
+Zotu140	Bacteria	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	?
+Zotu431	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu433	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu2595	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu517	Bacteria	Bacteroidota	Bacteroidia	?	?	?	?
+Zotu2051	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1076	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu660	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	uncultured delta proteobacterium
+Zotu2552	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-001	?
+Zotu853	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] eligens group	?
+Zotu421	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu2411	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1040	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	?	?
+Zotu406	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Eikenella	?
+Zotu383	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	CL500-29 marine group	?
+Zotu2948	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1669	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2240	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Apibacter	?
+Zotu933	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila
+Zotu1761	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	?
+Zotu1292	Bacteria	Gemmatimonadota	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	?	?
+Zotu1302	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Endobacter	?
+Zotu393	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu236	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu790	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Sporichthyaceae	hgcI clade	uncultured actinobacterium
+Zotu398	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	?	?
+Zotu396	Bacteria	Bacteroidota	Bacteroidia	?	?	?	?
+Zotu97	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu397	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	Glutamicibacter arilaitensis
+Zotu388	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	?	?
+Zotu424	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Tepidimonas	?
+Zotu360	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	?
+Zotu555	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu1802	Bacteria	Firmicutes	Clostridia	Clostridia UCG-014	?	?	?
+Zotu379	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group	?
+Zotu132	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu2155	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+Zotu832	Bacteria	Firmicutes	Bacilli	Acholeplasmatales	Acholeplasmataceae	Anaeroplasma	?
+Zotu370	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu34	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	Methylotenera	?
+Zotu265	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu339	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu364	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2984	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	Candidatus Obscuribacter	?
+Zotu44	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu607	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu332	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu656	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chishuiella	Empedobacter sp. F-Fue-04TIIa
+Zotu288	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1978	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	DSSD61	uncultured beta proteobacterium
+Zotu1379	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured organism	?
+Zotu403	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu330	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	Abiotrophia defectiva
+Zotu858	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1941	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Antricoccus	?
+Zotu1529	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	Methylophilus	Methylophilus methylotrophus
+Zotu2569	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu543	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu2056	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu874	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Asinibacterium	?
+Zotu1141	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter	?
+Zotu2028	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	?
+Zotu1929	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu326	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Ideonella	uncultured prokaryote
+Zotu1614	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu347	Bacteria	Firmicutes	Clostridia	Oscillospirales	?	?	?
+Zotu1905	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1337	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu344	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu852	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	uncultured Capnocytophaga sp.
+Zotu1620	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1119	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	MND1	uncultured beta proteobacterium
+Zotu606	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	Glutamicibacter arilaitensis
+Zotu2	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	?
+Zotu355	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+Zotu385	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	?	?
+Zotu817	Bacteria	Planctomycetota	OM190	?	?	?	?
+Zotu2922	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1241	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1374	Bacteria	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	?
+Zotu2640	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1201	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu337	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu358	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Devosiaceae	Devosia	?
+Zotu2393	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	?
+Zotu1296	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2777	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2176	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	?
+Zotu325	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	?
+Zotu1392	Bacteria	FCPU426	metagenome	?	?	?	?
+Zotu2152	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu300	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	?
+Zotu316	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium glyciniphilum AJ 3170
+Zotu1333	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu223	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Aquabacterium	?
+Zotu979	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	?	?	?
+Zotu1019	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	?
+Zotu453	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	?
+Zotu276	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2185	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu749	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	?
+Zotu2203	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1729	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	?	?	?
+Zotu248	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	?	?	?
+Zotu2278	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu637	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2812	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	?	?
+Zotu668	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	?
+Zotu191	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu657	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu315	Bacteria	Firmicutes	Bacilli	Exiguobacterales	Exiguobacteraceae	Exiguobacterium	?
+Zotu458	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+Zotu1170	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu1167	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu305	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu303	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu40	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	?	?
+Zotu1159	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu2283	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu1550	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	?	?
+Zotu345	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu2213	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Rhizobacter	?
+Zotu280	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu23	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu346	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	?
+Zotu2054	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu169	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Aquabacterium	?
+Zotu49	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerococcus	?	?
+Zotu2081	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1382	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	?
+Zotu1404	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1778	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu366	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2875	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	?	?	?
+Zotu278	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	?
+Zotu1459	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu271	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Clostridium sp. K39
+Zotu250	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	?
+Zotu2194	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu240	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu148	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1481	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu244	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Lautropia	?
+Zotu104	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu1735	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	?	?	?
+Zotu544	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	?	?
+Zotu2953	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2193	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1103	Bacteria	Proteobacteria	Gammaproteobacteria	?	?	?	?
+Zotu1408	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu730	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1674	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	?
+Zotu493	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	?
+Zotu2682	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1657	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2650	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu107	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	?
+Zotu763	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Romboutsia ilealis
+Zotu340	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu820	Bacteria	Acidobacteriota	Blastocatellia	Blastocatellales	Blastocatellaceae	JGI 0001001-H03	?
+Zotu1936	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu89	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	?
+Zotu1035	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu537	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2119	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	?
+Zotu96	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu2423	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Cavicella	uncultured gamma proteobacterium
+Zotu1366	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	?
+Zotu2651	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus plantarum
+Zotu67	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	?
+Zotu301	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	?
+Zotu994	Bacteria	WPS-2	metagenome	?	?	?	?
+Zotu114	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Romboutsia ilealis
+Zotu412	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2159	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	Eubacterium sp. oral clone DO016
+Zotu387	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2487	Bacteria	Actinobacteriota	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	?
+Zotu1878	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Lacunisphaera	?
+Zotu78	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	?
+Zotu976	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	?
+Zotu907	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1193	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Clostridium sp. K39
+Zotu2113	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus	?
+Zotu179	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] torques group	uncultured organism
+Zotu944	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu152	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus fermentum
+Zotu2572	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	?	?	?
+Zotu2408	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis
+Zotu378	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu585	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	?
+Zotu2175	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2274	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomaceae	Spirosoma	?
+Zotu336	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu53	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Dolosigranulum	?
+Zotu93	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu99	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu59	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2024	Bacteria	Firmicutes	Bacilli	Exiguobacterales	Exiguobacteraceae	Exiguobacterium	?
+Zotu707	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	uncultured Clostridiales bacterium
+Zotu2927	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu63	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Curvibacter	?
+Zotu807	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu713	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hirschia	metagenome
+Zotu2500	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	?
+Zotu39	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	?
+Zotu1587	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1877	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	?
+Zotu818	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	?	?
+Zotu230	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+Zotu2025	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	?
+Zotu102	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu2039	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu465	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu787	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	?
+Zotu684	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	?
+Zotu21	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	?
+Zotu58	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu466	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu1612	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Subdoligranulum	?
+Zotu318	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	?
+Zotu90	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu224	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu980	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu65	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-008	?
+Zotu512	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	?
+Zotu237	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	?
+Zotu82	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu341	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu1182	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu882	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu440	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	?
+Zotu1179	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Schaalia odontolytica
+Zotu166	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae FCS020 group	?
+Zotu2817	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides aquaticus
+Zotu2184	Bacteria	Proteobacteria	Alphaproteobacteria	?	?	?	?
+Zotu1993	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Haematobacter	?
+Zotu254	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Paludicola	?
+Zotu238	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	?
+Zotu83	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu260	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caecimuris
+Zotu295	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	?	?
+Zotu27	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu2465	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2033	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1391	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu203	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu1964	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu328	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	?
+Zotu2959	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+Zotu76	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu185	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	[Eubacterium] siraeum group	[Eubacterium] siraeum DSM 15702
+Zotu297	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	?
+Zotu1608	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	?
+Zotu225	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	ASF356	?
+Zotu279	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces oris
+Zotu1704	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2851	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu80	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Finegoldia	?	?
+Zotu2101	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Intrasporangiaceae	Arsenicicoccus	?
+Zotu242	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium durum
+Zotu417	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	?
+Zotu342	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu655	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	?
+Zotu680	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	?
+Zotu16	Bacteria	Campilobacterota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	?
+Zotu70	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1825	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	?
+Zotu354	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+Zotu329	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu947	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	uncultured Bacteroidetes bacterium
+Zotu1756	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu317	Bacteria	Firmicutes	Clostridia	Clostridia UCG-014	gut metagenome	?	?
+Zotu2917	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	?
+Zotu243	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	Clostridiales bacterium CIEAF 021
+Zotu171	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu2448	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1321	Bacteria	Proteobacteria	Gammaproteobacteria	?	?	?	?
+Zotu450	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	?
+Zotu284	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1653	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu1129	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu133	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu1281	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	?
+Zotu925	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu69	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	?
+Zotu91	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu1463	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Lacunisphaera	?
+Zotu60	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu134	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+Zotu55	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu1102	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Kingella	?
+Zotu481	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Bacteroidales bacterium
+Zotu854	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Jeotgalicoccus	Jeotgalicoccus sp. ChroAq 89
+Zotu142	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium kroppenstedtii
+Zotu2692	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu796	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu18	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	?	?
+Zotu599	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	?
+Zotu320	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu304	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu705	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1582	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	uncultured Pseudomonas sp.
+Zotu17	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Hydrotalea	?
+Zotu663	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu369	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu10	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu1283	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	uncultured Bacteroidetes bacterium
+Zotu130	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu86	Bacteria	Firmicutes	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	gut metagenome
+Zotu186	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	?
+Zotu1577	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu643	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1699	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	Candidatus Obscuribacter	metagenome
+Zotu723	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu454	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] torques group	uncultured organism
+Zotu2070	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu172	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2746	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1295	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1001	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	?
+Zotu88	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu12	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Chitinophaga	?
+Zotu595	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	metagenome
+Zotu483	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu884	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	Micavibrionaceae	?	?
+Zotu581	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu799	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	?
+Zotu9	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu935	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu118	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	?
+Zotu2183	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Anaeroglobus	Anaeroglobus geminatus
+Zotu536	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu2431	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	Pseudoxanthomonas sp. L-bf-R2A-1.1.1
+Zotu256	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	?	?
+Zotu1354	Bacteria	Myxococcota	Polyangia	Polyangiales	Polyangiaceae	Pajaroellobacter	?
+Zotu380	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu154	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu2641	Bacteria	?	?	?	?	?	?
+Zotu1700	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu296	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu1314	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu1903	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	NS11-12 marine group	?	?
+Zotu269	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	?
+Zotu257	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	?
+Zotu939	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2727	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu2282	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu270	Bacteria	Campilobacterota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	?
+Zotu177	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	uncultured Halomonadaceae bacterium
+Zotu1294	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu897	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu290	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Hafniaceae	Hafnia-Obesumbacterium	?
+Zotu136	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+Zotu92	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu367	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu120	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	?	?	?
+Zotu50	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] hallii group	?
+Zotu124	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium-Methylorubrum	?
+Zotu516	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	?
+Zotu974	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	?	?	?
+Zotu361	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	?
+Zotu1867	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	?	?
+Zotu26	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Pelomonas	Pelomonas saccharophila
+Zotu36	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium-Methylorubrum	?
+Zotu38	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	?
+Zotu64	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	?
+Zotu844	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Delftia	?
+Zotu1972	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu720	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes inops
+Zotu28	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus fermentum
+Zotu14	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu948	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu283	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu29	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Ruminococcus] gnavus group	uncultured organism
+Zotu1795	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu218	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu1325	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	[Eubacterium] nodatum group	?
+Zotu42	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	?
+Zotu6	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	Escherichia coli
+Zotu195	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu392	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	?
+Zotu2754	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1406	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	?
+Zotu306	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	Clostridium butyricum
+Zotu51	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	?
+Zotu338	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu117	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	?	?
+Zotu110	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	?
+Zotu147	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	Olsenella profusa
+Zotu1328	Bacteria	Bdellovibrionota	Bdellovibrionia	Bacteriovoracales	Bacteriovoracaceae	Bacteriovorax	?
+Zotu1197	Bacteria	Myxococcota	Polyangia	Blfdi19	metagenome	?	?
+Zotu5	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu4	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	?
+Zotu414	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	uncultured Capnocytophaga sp.
+Zotu2643	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu365	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+Zotu212	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	?
+Zotu66	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	?
+Zotu319	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	?
+Zotu231	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	?
+Zotu631	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu143	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	?
+Zotu1236	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	Escherichia coli
+Zotu1005	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu128	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu2231	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu165	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	?
+Zotu1381	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu155	Bacteria	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	?
+Zotu129	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter	Moraxellaceae bacterium 14b-m12-2
+Zotu2128	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu812	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter	?
+Zotu115	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu139	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu2076	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu41	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	?	?
+Zotu564	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	?	?
+Zotu116	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	?
+Zotu1130	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	?	?	?
+Zotu206	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc	?
+Zotu286	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu857	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1443	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella catarrhalis
+Zotu259	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Alkanindiges	Moraxellaceae bacterium HYN0046
+Zotu2583	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	ASF356	?
+Zotu572	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Rheinheimera	?
+Zotu197	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	?	?
+Zotu520	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu1773	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu281	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu153	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	uncultured organism
+Zotu2271	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	?	?
+Zotu353	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	uncultured Bacteroidales bacterium
+Zotu602	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu2455	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu612	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu470	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu158	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Megamonas	?
+Zotu156	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Renibacterium	?
+Zotu1740	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	?
+Zotu436	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu2105	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	?
+Zotu180	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu135	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu1649	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter	?
+Zotu266	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	?
+Zotu1020	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	?
+Zotu978	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2173	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Senegalimassilia	?
+Zotu146	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu1138	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis
+Zotu20	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu162	Bacteria	Firmicutes	Clostridia	Christensenellales	Christensenellaceae	Christensenellaceae R-7 group	?
+Zotu160	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu2476	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2229	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1257	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	?	?	?
+Zotu916	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	?
+Zotu2000	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	metagenome	?
+Zotu847	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu75	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu150	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	?	?
+Zotu174	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu168	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Oscillospira	?
+Zotu1196	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus	?
+Zotu1066	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Bacteroidales bacterium
+Zotu2798	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu189	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu500	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	uncultured organism
+Zotu1664	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu176	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	?
+Zotu190	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Bacteroidales bacterium
+Zotu1762	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu384	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	NK4A214 group	uncultured organism
+Zotu161	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu1378	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Conchiformibius	Conchiformibius steedae
+Zotu77	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu2462	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1646	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	TM7x	uncultured Candidatus Saccharibacteria bacterium
+Zotu430	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	?
+Zotu226	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu2207	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu491	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	?	?	?
+Zotu1977	Eukaryota	Platyhelminthes	Cestoda	Cyclophyllidea	?	?	Moniezia benedeni
+Zotu1434	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu194	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	?
+Zotu547	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu2484	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	?
+Zotu541	Bacteria	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	?
+Zotu221	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	?
+Zotu193	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	?
+Zotu100	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	?
+Zotu566	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	gut metagenome
+Zotu2698	Bacteria	Patescibacteria	Parcubacteria	Candidatus Kaiserbacteria	metagenome	?	?
+Zotu46	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu207	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium periodonticum
+Zotu1950	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu894	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+Zotu1461	Bacteria	Patescibacteria	Parcubacteria	Candidatus Kaiserbacteria	?	?	?
+Zotu613	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu220	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1499	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu210	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	?
+Zotu362	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Parvimonas	?	?
+Zotu1121	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	1174-901-12	?
+Zotu1688	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu208	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	Selenomonas sputigena
+Zotu1515	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Aquabacterium	Aquabacterium parvum
+Zotu217	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	?
+Zotu209	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium rhizosphaerae
+Zotu184	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu1015	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu875	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	?
+Zotu202	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+Zotu79	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria	?
+Zotu2494	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Cryomorphaceae	?	?
+Zotu687	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu1775	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	?
+Zotu227	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	?
+Zotu377	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	?
+Zotu1697	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu357	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu235	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Subdoligranulum	?
+Zotu2214	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1330	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu313	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	?
+Zotu577	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	?	?
+Zotu1242	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu54	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Brucella	?
+Zotu2860	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	?
+Zotu1260	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	?	?
+Zotu1376	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	metagenome	?
+Zotu187	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Sporichthyaceae	hgcI clade	?
+Zotu2960	Bacteria	?	?	?	?	?	?
+Zotu204	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+Zotu302	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu98	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu444	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu108	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu1566	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu245	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu1604	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu11	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu630	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	?
+Zotu764	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu103	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	?
+Zotu632	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus agilis
+Zotu579	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	?
+Zotu568	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+Zotu634	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu647	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	?
+Zotu640	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	?
+Zotu1717	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu614	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu2895	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	?
+Zotu639	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	Escherichia coli
+Zotu670	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema sp. 3:G:BB003
+Zotu1963	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Hydrotalea	?
+Zotu690	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	?	?
+Zotu685	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	?
+Zotu2140	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	AAP99	?
+Zotu691	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	?
+Zotu1857	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu646	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus-Caldovatus	Craurococcus sp. HM28-1
+Zotu700	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+Zotu716	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	?
+Zotu693	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+Zotu725	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	uncultured phototrophic eukaryote	?	?
+Zotu1734	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter	Empedobacter falsenii genomovar 2
+Zotu727	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	?
+Zotu1192	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu701	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu742	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides acidifaciens
+Zotu356	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1787	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	?
+Zotu1422	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1095	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu737	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu748	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	?
+Zotu1487	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu746	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Sporichthyaceae	hgcI clade	?
+Zotu2667	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu717	Bacteria	Planctomycetota	Planctomycetes	Gemmatales	Gemmataceae	?	?
+Zotu750	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu1711	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2642	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	uncultured organism
+Zotu757	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	?
+Zotu732	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu1531	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu778	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	?	?
+Zotu771	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+Zotu772	Bacteria	?	?	?	?	?	?
+Zotu2180	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu1994	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	?
+Zotu739	Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Inquilinaceae	Inquilinus	?
+Zotu1495	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu861	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu2712	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	?
+Zotu2062	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	?
+Zotu1438	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	?
+Zotu2085	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu783	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-008	?
+Zotu19	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu782	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Ureibacillus	Ureibacillus thermosphaericus
+Zotu1134	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2952	Bacteria	Proteobacteria	?	?	?	?	?
+Zotu786	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	[Eubacterium] brachy group	?
+Zotu480	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu785	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu1346	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	uncultured organism
+Zotu1542	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	Providencia sp. SRS82
+Zotu798	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	Clostridiales bacterium CIEAF 020
+Zotu2212	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu1045	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	?
+Zotu2370	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu222	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	?
+Zotu1037	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	Faecalibaculum rodentium
+Zotu15	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis
+Zotu769	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	?
+Zotu1299	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	Aggregatibacter aphrophilus
+Zotu806	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1640	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2880	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	?	?	?
+Zotu1952	Bacteria	Myxococcota	Polyangia	Haliangiales	Haliangiaceae	Haliangium	?
+Zotu876	Bacteria	Planctomycetota	Planctomycetes	Pirellulales	Pirellulaceae	?	?
+Zotu810	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu2186	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae	?	?
+Zotu1156	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu1263	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	?
+Zotu1433	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu780	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptoniphilus	?	?
+Zotu813	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu1497	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu1137	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2544	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Rahnella1	?
+Zotu30	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	?
+Zotu819	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Megamonas	?
+Zotu998	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces israelii
+Zotu719	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1598	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium lindanitolerans
+Zotu2336	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1934	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	?	?
+Zotu815	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu2172	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2861	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu1126	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu824	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu2485	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu422	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	Veillonella sp. oral taxon 780
+Zotu843	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	uncultured organism
+Zotu2463	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu294	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu808	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu2474	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	?
+Zotu849	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Diaphorobacter	?
+Zotu524	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	?
+Zotu1332	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	?
+Zotu1047	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu307	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2611	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	?
+Zotu877	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+Zotu878	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Lacunisphaera	?
+Zotu840	Bacteria	Firmicutes	Clostridia	Clostridia UCG-014	?	?	?
+Zotu1639	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu2335	Bacteria	Verrucomicrobiota	Lentisphaeria	?	?	?	?
+Zotu888	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	Megasphaera stantonii
+Zotu896	Bacteria	Campilobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	?
+Zotu2345	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu906	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales	?	?	?
+Zotu910	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu917	Bacteria	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	?
+Zotu2618	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Dysgonomonas	?
+Zotu926	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1151	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu887	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium imitans
+Zotu1173	Bacteria	Campilobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	?
+Zotu940	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	?	?
+Zotu937	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	[Eubacterium] brachy group	?
+Zotu1660	Eukaryota	Phragmoplastophyta	Embryophyta	?	?	?	?
+Zotu1016	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	?
+Zotu275	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu2082	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	Escherichia coli
+Zotu966	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Nitrosomonadaceae	Ellin6067	?
+Zotu2252	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1597	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+Zotu312	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	?
+Zotu45	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	uncultured organism
+Zotu967	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+Zotu1189	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu969	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu2858	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1804	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu975	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Psychroglaciecola	Psychroglaciecola arctica
+Zotu977	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	?	?	?
+Zotu2621	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu372	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu982	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu704	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu943	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	?
+Zotu2317	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu138	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu381	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+Zotu1506	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+Zotu43	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Incertae Sedis	?
+Zotu985	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu1117	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu995	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	?
+Zotu1118	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1006	Bacteria	Actinobacteriota	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	?
+Zotu931	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1021	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu1681	Bacteria	Firmicutes	?	?	?	?	?
+Zotu1022	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. Marseille-P3108
+Zotu823	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu1029	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured Bacteroides sp.
+Zotu2663	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1032	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	Muribaculum intestinale
+Zotu2803	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu2353	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	?
+Zotu1034	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu510	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1663	Bacteria	Firmicutes	Bacilli	Exiguobacterales	Exiguobacteraceae	Exiguobacterium	?
+Zotu1046	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group	?
+Zotu105	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1052	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu1053	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1895	Bacteria	Cyanobacteria	Cyanobacteriia	Synechococcales	Cyanobiaceae	Cyanobium PCC-6307	uncultured cyanobacterium
+Zotu1120	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu1683	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1051	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	?
+Zotu1017	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	Methylobacillus	?
+Zotu1216	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu1031	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu1625	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1075	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caecimuris
+Zotu801	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1079	Bacteria	Proteobacteria	Alphaproteobacteria	Caedibacterales	Caedibacteraceae	Candidatus Nucleicultrix	metagenome
+Zotu2797	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1077	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	?
+Zotu1085	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	Methylotenera	?
+Zotu588	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu1554	Bacteria	Actinobacteriota	Thermoleophilia	Solirubrobacterales	67-14	?	?
+Zotu1101	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	?	?
+Zotu726	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	?
+Zotu1454	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	uncultured organism
+Zotu1089	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1924	Bacteria	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	?
+Zotu175	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1111	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066575	?
+Zotu2598	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1003	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1096	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	?
+Zotu1123	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae UCG-004	?
+Zotu1568	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1122	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Johnsonella	?
+Zotu1133	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu1415	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1140	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	Eubacterium sp. Marseille-P3202
+Zotu2142	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	?
+Zotu1105	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu1293	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	?
+Zotu1146	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Beutenbergiaceae	?	?
+Zotu1143	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	uncultured rumen bacterium
+Zotu258	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu293	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu636	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	?
+Zotu1165	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1403	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	?
+Zotu1177	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	?	?	?
+Zotu1127	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu776	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1171	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu1181	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu2187	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1579	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu590	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1139	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Duganella	Duganella sp. CGMCC 1.9685
+Zotu605	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	?
+Zotu1551	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	?
+Zotu1219	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	uncultured Candidatus Saccharibacteria bacterium	?
+Zotu993	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu521	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu394	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2843	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Eikenella	Eikenella sp. NML01-A-086
+Zotu1390	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu2818	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu111	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu47	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	?
+Zotu1206	Bacteria	Proteobacteria	Gammaproteobacteria	?	?	?	?
+Zotu499	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga leadbetteri
+Zotu214	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1457	Bacteria	Firmicutes	Bacilli	Lactobacillales	Listeriaceae	Brochothrix	Brochothrix thermosphacta
+Zotu1163	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu1586	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade III	Candidatus Fonsibacter ubiquis	?
+Zotu919	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1023	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	?
+Zotu1214	Bacteria	Planctomycetota	Planctomycetes	Planctomycetales	?	?	?
+Zotu1218	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu2003	Bacteria	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	Cardiobacterium valvarum
+Zotu1514	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	?	?
+Zotu1044	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2951	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	?
+Zotu1535	Bacteria	Patescibacteria	Parcubacteria	Candidatus Kaiserbacteria	?	?	?
+Zotu1444	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1176	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	?	?
+Zotu1226	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium	?
+Zotu1235	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	?
+Zotu1090	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu2397	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1247	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	?
+Zotu2089	Bacteria	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	Cardiobacterium sp. Auto5
+Zotu1251	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu2053	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Alkanindiges	?
+Zotu951	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	?
+Zotu1253	Bacteria	Actinobacteriota	Thermoleophilia	Gaiellales	Gaiellaceae	Gaiella	metagenome
+Zotu1110	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1215	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu1419	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu1886	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu1287	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	?
+Zotu1335	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu1291	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	?
+Zotu1237	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	?	?
+Zotu2456	Bacteria	Patescibacteria	Gracilibacteria	Gracilibacteria bacterium oral taxon 873	?	?	?
+Zotu2542	Bacteria	Patescibacteria	Gracilibacteria	JGI 0000069-P22	?	?	?
+Zotu2354	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	?
+Zotu1306	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	?
+Zotu619	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1326	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	?	?	?
+Zotu2736	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	?
+Zotu1342	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	[Eubacterium] xylanophilum group	?
+Zotu1087	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu62	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	?
+Zotu1347	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	?	Clostridium phoceensis
+Zotu1367	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu122	Bacteria	Firmicutes	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	?
+Zotu1369	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	TRA3-20	?	?
+Zotu1312	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio piger
+Zotu1368	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	Methylotenera	?
+Zotu1372	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	gut metagenome
+Zotu1402	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	metagenome	?
+Zotu71	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+Zotu1412	Bacteria	Firmicutes	Clostridia	Clostridia vadinBB60 group	?	?	?
+Zotu1393	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+Zotu1733	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	?
+Zotu87	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1410	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Subdoligranulum	?
+Zotu1417	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	Veillonella sp. oral taxon 780
+Zotu1437	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+Zotu733	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu1429	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+Zotu1420	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	?
+Zotu1615	Bacteria	Campilobacterota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	?
+Zotu1043	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1441	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	uncultured organism
+Zotu1445	Bacteria	Chloroflexi	KD4-96	?	?	?	?
+Zotu1718	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Domibacillus	?
+Zotu1407	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	?	?
+Zotu1309	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	metagenome	?
+Zotu1469	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	Nevskia	?
+Zotu918	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1456	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+Zotu322	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+Zotu1413	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	?	?
+Zotu211	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1432	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Acidiphilium	metagenome
+Zotu409	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1486	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	?
+Zotu1491	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	?
+Zotu1475	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu2094	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu968	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Dorea	?
+Zotu1503	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+Zotu1509	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae NK4A136 group	uncultured Lachnospiraceae bacterium
+Zotu1452	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	?
+Zotu862	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella nigrescens
+Zotu1525	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	?
+Zotu1538	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+Zotu1537	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc	?
+Zotu1605	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+Zotu1815	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Lacunisphaera	metagenome
+Zotu2445	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	metagenome	?
+Zotu145	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+Zotu1532	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu408	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae	Antricoccus	?
+Zotu1494	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Dietziaceae	Dietzia	Dietzia timorensis
+Zotu1541	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis	Unknown Family	Acidibacter	uncultured eubacterium WD2124
+Zotu1527	Bacteria	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	uncultured Acidobacteria bacterium	?
+Zotu2571	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	CAG-352	uncultured organism
+Zotu1272	Bacteria	Firmicutes	Clostridia	Clostridia UCG-014	?	?	?
+Zotu1553	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Dermabacteraceae	Dermabacter	?
+Zotu1564	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+Zotu1642	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu792	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured Bacteroidales bacterium
+Zotu1502	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	Pseudoxanthomonas kaohsiungensis
+Zotu1258	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides difficile
+Zotu1572	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu1594	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	?
+Zotu1593	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	env.OPS 17	?	?
+Zotu2776	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1555	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	?	?
+Zotu745	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Bacteroidales bacterium
+Zotu1619	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	?
+Zotu1574	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Sporichthyaceae	hgcI clade	?
+Zotu2846	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Chitinophaga	?
+Zotu1617	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	?
+Zotu1086	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Romboutsia	Clostridium sp. K39
+Zotu1633	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	?
+Zotu1706	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	?	?
+Zotu1876	Bacteria	Actinobacteriota	Actinobacteria	PeM15	?	?	?
+Zotu1680	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	?
+Zotu1676	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	?
+Zotu1678	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	?
+Zotu629	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	metagenome
+Zotu1510	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	uncultured organism
+Zotu1695	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	?
+Zotu1709	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	?	?	?
+Zotu1726	Bacteria	Deinococcota	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus antarcticus
+Zotu1727	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	?	?	?
+Zotu1668	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	?
+Zotu1742	Bacteria	Deinococcota	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	?
+Zotu965	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	?	?	?
+Zotu1769	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Subdoligranulum	?
+Zotu1799	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter	?
+Zotu1805	Bacteria	Proteobacteria	Alphaproteobacteria	Caedibacterales	Caedibacteraceae	Candidatus Nucleicultrix	Candidatus Nucleicultrix amoebiphila FS5
+Zotu429	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sobrinus
+Zotu1812	Bacteria	Bdellovibrionota	Oligoflexia	0319-6G20	uncultured soil bacterium	?	?
+Zotu1518	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Chromohalobacter	?
+Zotu1809	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	ASF356	?
+Zotu1863	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu1472	Bacteria	Firmicutes	Clostridia	?	?	?	?
+Zotu811	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	?	?	?
+Zotu2699	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sobrinus
+Zotu1823	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomaceae	Pseudarcicella	?
